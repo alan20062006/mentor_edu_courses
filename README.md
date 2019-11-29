@@ -1,2 +1,2 @@
 # mentor_edu_courses
-Those are the codes for our online courses.
+Those are the code for our online courses.
